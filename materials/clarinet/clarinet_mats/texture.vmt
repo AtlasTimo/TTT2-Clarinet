@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "clarinet/clarinet_mats/texture"
+	"$bumpmap" "clarinet/clarinet_mats/normal"
+}
